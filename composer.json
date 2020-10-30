@@ -1,7 +1,6 @@
 {
     "name": "eloquent-engineering",
     "description": "Intelligent package capable of generating the model from the database, the database from the model thanks to migrations",
-    "type": "library",
     "version": "1.2.5",
     "autoload": {
         "psr-4": {

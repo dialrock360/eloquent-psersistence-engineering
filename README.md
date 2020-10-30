@@ -5,7 +5,7 @@ Eloquent Model Generator is a tool based on [Code Generator](https://github.com/
 ## Installation
 Step 1. Add Eloquent Model Generator to your project:
 ```
-composer require dr360/eloquent-engineering --dev
+composer require dr360/eloquent/engineering --dev
 ```
 Step 2. Register `GeneratorServiceProvider`:
 ```php

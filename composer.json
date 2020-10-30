@@ -1,8 +1,8 @@
 {
-    "name": "eloquent-engineering",
+    "name": "eloquent/engineering",
     "description": "Intelligent package capable of generating the model from the database, the database from the model thanks to migrations",
     "type": "library",
-    "version": "1.0",,
+    "version": "1.0",
     "autoload": {
         "psr-4": {
             "dr360\\EloquentEngineering\\": "src/"
